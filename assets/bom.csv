@@ -1,0 +1,11 @@
+category,part,quantity,purpose,notes
+Controller,Arduino Due,1,"Runs inverse kinematics and sends signals to the three servos","Programming Port or Native USB can be used"
+Actuator,DS3235SG 35 kg high-torque servo,3,"Coxa femur and tibia joints","Exact purchased variant should be checked against the servo label"
+Power,7.4 V 2S LiPo battery,1,"External servo power supply","OVONIC battery recorded in the project log"
+Mechanical,3D-printed leg assembly,1,"Coxa femur tibia and servo-mount structure","STL exports belong in assets/cad"
+Wiring,Jumper wires and power leads,1 set,"Servo signals shared ground and battery connection","Only the wiring used in the working prototype is included"
+Fastener,2-56 square nuts,1 pack,"Fastens the smaller printed components","McMaster-Carr 94855A279 - https://www.mcmaster.com/94855A279/"
+Fastener,2-56 screws,1 pack,"Pairs with the 2-56 square nuts in the printed assembly","McMaster-Carr 92949A079 - https://www.mcmaster.com/92949A079/"
+Fastener,M4 hex nuts,1 pack,"Fastens the main leg structure and joints","McMaster-Carr 90591A255 - https://www.mcmaster.com/90591A255/"
+Fastener,M4 screws,1 pack,"Pairs with the M4 hex nuts in the main leg structure","McMaster-Carr 92095A192 - https://www.mcmaster.com/92095A192/"
+Bearing,Miniature bearings,1 pack,"Supports the leg joints and reduces friction","Amazon B0G34JLXLK - https://www.amazon.com/dp/B0G34JLXLK"
