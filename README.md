@@ -8,6 +8,10 @@ a draggable 3D controller and a simpler command dashboard.
 
 ![Assembled single-leg prototype beside the Arduino Due and 3D inverse-kinematics controller](assets/images/assembled-single-leg-controller.png)
 
+![3D-printed leg components laid out before assembly](assets/images/2025-08-07-printed-leg-parts-01.jpg)
+
+![Second view of the 3D-printed leg components](assets/images/2025-08-07-printed-leg-parts-02.png)
+
 ## Repository layout
 
 - `code/` - Arduino firmware, joint calibration sketch, and Python controllers
